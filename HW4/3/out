@@ -1,0 +1,66 @@
+0
+0
+0
+4
+7
+18
+0
+Memory leak detected!
+my_ptr constructed.
+my_ptr constructed.
+my_ptr constructed.
+my_ptr constructed.
+my_ptr constructed.
+my_ptr constructed.
+my_ptr constructed.
+my_ptr constructed.
+my_ptr constructed.
+my_ptr constructed.
+my_ptr constructed.
+my_ptr updated.
+my_ptr destructed.
+my_ptr constructed.
+my_ptr updated.
+my_ptr destructed.
+my_ptr constructed.
+my_ptr updated.
+my_ptr destructed.
+my_ptr constructed.
+my_ptr updated.
+my_ptr destructed.
+my_ptr constructed.
+my_ptr updated.
+my_ptr destructed.
+my_ptr constructed.
+my_ptr updated.
+my_ptr destructed.
+my_ptr constructed.
+my_ptr updated.
+my_ptr destructed.
+my_ptr constructed.
+my_ptr updated.
+my_ptr destructed.
+my_ptr constructed.
+my_ptr updated.
+my_ptr destructed.
+Copying of my_ptr is forbidden!
+my_ptr updated.
+my_ptr updated.
+my_ptr updated.
+my_ptr updated.
+Copying of my_ptr is forbidden!
+my_ptr updated.
+Do not attempt to read a nullptr!
+Do not attempt to read a nullptr!
+Do not attempt to read a nullptr!
+Do not attempt to read a nullptr!
+my_ptr destructed.
+my_ptr destructed.
+my_ptr destructed.
+my_ptr destructed.
+my_ptr destructed.
+my_ptr destructed.
+my_ptr destructed.
+my_ptr destructed.
+my_ptr destructed.
+my_ptr destructed.
