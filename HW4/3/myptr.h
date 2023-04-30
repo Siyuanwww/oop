@@ -52,7 +52,7 @@ public:
             return p;
         } else {
             printf("Do not attempt to read a nullptr!\n");
-            *null = T();
+            // *null = T();
             return null;
         }
     }
@@ -61,7 +61,7 @@ public:
             return *p;
         } else {
             printf("Do not attempt to read a nullptr!\n");
-            *null = T();
+            // *null = T();
             return *null;
         }
     }
