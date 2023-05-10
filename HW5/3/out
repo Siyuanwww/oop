@@ -1,0 +1,9 @@
+#1:
+replace!*world
+#2:
+replace!*world*
+#3:
+world*world
+#4:
+world
+*
